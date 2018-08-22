@@ -1,4 +1,4 @@
-# Introduction To R
+# Introduction To R-- testing
 
 An introductory lesson on R and R Studio. This repository is supports the
 Introduction To R workshop given by the Penn State Libraries.
