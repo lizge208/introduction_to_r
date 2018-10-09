@@ -15,9 +15,8 @@ order: 10
 
 #### Other Resource
 
-* Quick R
-* GGPlot
-* 
+* Quick-R
+* R Blogger
     
 
 
